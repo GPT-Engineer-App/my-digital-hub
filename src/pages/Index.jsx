@@ -9,7 +9,7 @@ const Index = () => {
           <VStack spacing={4} align="center">
             <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MTQ2NjcxODd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Profile Image" />
             <Heading as="h1" size="xl">
-              John Doe
+              Kristian Kyvik
             </Heading>
             <Text fontSize="lg" color="gray.600">
               Software Developer
